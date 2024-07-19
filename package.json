@@ -1,0 +1,17 @@
+{
+  "name": "cuiqg",
+  "version": "0.0.0",
+  "description": "Hi, I'm Tsuiqg",
+  "private": true,
+  "main": "index.js",
+  "bin": "./index.js",
+  "files": [
+    "index.js"
+  ],
+  "author": "Tsuiqg <i@tsuiqg.me>",
+  "license": "Unlicense",
+  "dependencies": {
+    "open": "^10.1.0"
+  },
+  "repository": "github:cuiqg/cuiqg"
+}
