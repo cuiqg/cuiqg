@@ -11,7 +11,7 @@
   "files": [
     "index.js"
   ],
-  "author": "Tsuiqg <i@tsuiqg.me>",
+  "author": "Tsuiqg <i@tsuiqg.de>",
   "license": "UNLICENSED",
   "dependencies": {
     "open": "^11.0.4"

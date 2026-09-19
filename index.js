@@ -1,5 +1,5 @@
 #!/usr/bin/env node
 
-import open, {openApp, apps} from 'open'
+import open from 'open'
 
-await open('https://tsuiqg.me')
+await open('https://tsuiqg.de')
