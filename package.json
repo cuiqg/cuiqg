@@ -5,14 +5,16 @@
   "private": true,
   "type": "module",
   "main": "index.js",
-  "bin": "./index.js",
+  "bin": {
+    "cuiqg": "./index.js"
+  },
   "files": [
     "index.js"
   ],
   "author": "Tsuiqg <i@tsuiqg.me>",
-  "license": "Unlicense",
+  "license": "UNLICENSED",
   "dependencies": {
-    "open": "^10.1.0"
+    "open": "^11.0.4"
   },
   "repository": "github:cuiqg/cuiqg"
 }
